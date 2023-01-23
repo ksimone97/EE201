@@ -1,4 +1,4 @@
-void setup() {
+]kvoid setup() {
   // put your setup code here, to run once:
   pinMode(4, OUTPUT); //a
   pinMode(2, OUTPUT); // b
