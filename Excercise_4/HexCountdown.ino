@@ -1,5 +1,5 @@
-]kvoid setup() {
-  // put your setup code here, to run once:
+void setup() {
+  // Sets the HEX pins as ouputs
   pinMode(4, OUTPUT); //a
   pinMode(2, OUTPUT); // b
   pinMode(10, OUTPUT); // c
@@ -9,8 +9,9 @@
   pinMode(8, OUTPUT); // g
 }
 
+// Counts down from 9 to 0 repeatedly on a HEX display
 void loop() {
-  // put your main code here, to run repeatedly:
+  
   //9
   digitalWrite(4, LOW);
   digitalWrite(2, LOW);
