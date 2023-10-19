@@ -1,11 +1,11 @@
 void setup() {
-  // put your setup code here, to run once:
+  // Sets up the LED pins as outputs
   pinMode(8, OUTPUT);
   pinMode(7, OUTPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // Alternates the LEDs
   digitalWrite(8, HIGH);
   digitalWrite(7, LOW);
   delay(250);
