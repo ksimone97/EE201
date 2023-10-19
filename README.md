@@ -1,1 +1,1 @@
-This lab has KiCad labs
+This lab creates KiCad projects
