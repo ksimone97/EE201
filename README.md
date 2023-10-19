@@ -1,6 +1,1 @@
-# This is section A
-
-# This is a test
-
-This is a demo
-# This is Lab2
+This lab has KiCad labs
